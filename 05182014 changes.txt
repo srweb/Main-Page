@@ -1,0 +1,43 @@
+Changes:
+Upcoming events changed for golf
+
+Added scholarship winners to main page
+
+Created promo articles for scholarships and golf tournament.
+
+
+
+
+
+
+Items saved:
+
+index.php?option=com_content&view=article&id=245&catid=45&Itemid=150   polenta feed link for upcoming event
+
+
+
+
+
+Congratulations to Scholarship Winners !
+
+
+This years winners have been awarded for 2014.
+
+We are excited and blessed to offer 15 recipients, funds from the James Fleck Scholarship Fund in its inaugural year.
+
+
+
+
+
+Golf Tournament is coming !
+
+Polenta FeedTickets are $35 per person and will be available for sale on a first come, first served basis to members beginning February 1st.  General ticket sales begin on March 15th.
+
+The Santa Rosa High School Foundation cordially invites you to its Annual Polenta Feed on Friday, April 25, 2014 at the Veteran's Memorial Building in Santa Rosa.
+
+Get your tickets now!
+
+Read More » index.php?option=com_content&view=article&id=245&catid=45&Itemid=150   
+
+Images:
+images/polenta_feed/polenta-feed-promo-small.pn
