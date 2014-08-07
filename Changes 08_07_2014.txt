@@ -1,0 +1,5 @@
+080714 Changes
+
+-Added Newsletter to site for Summer 2014
+-Corrected grammar errors on Museum page
+-Added Golf tournament text to upcoming events right column
