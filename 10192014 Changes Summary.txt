@@ -1,0 +1,8 @@
+10192014 Changes Summary
+
+Removed names from Board Page per Sue Bolt email
+Added new names to Archived Board page
+
+Date change on Polenta Feed events page and Polenta feed page with dates of ticket sales TBD
+
+Added Save the Date to main page.

@@ -1,0 +1,106 @@
+10_19_2014 Changes
+
+
+Old:
+<h1>SRHS Foundation Board of Directors</h1>
+<p><strong>&raquo;</strong> View <a href="index.php?option=com_content&amp;view=article&amp;id=243&amp;catid=57">Past Board of Directors</a></p>
+<p>* Indicates Founding Director</p>
+<table>
+<thead>
+<tr><th>Board Member</th><th>Class</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Mary Orsborn Beseda</td>
+<td class="columnCenter">&lsquo;74</td>
+</tr>
+<tr>
+<td>Sue Bolt</td>
+<td class="columnCenter">Friend</td>
+</tr>
+<tr>
+<td>Daniel Bribiescas</td>
+<td class="columnCenter">'77</td>
+</tr>
+<tr>
+<td>Mike Daniels *</td>
+<td class="columnCenter">&lsquo;59</td>
+</tr>
+<tr>
+<td>Paulette Guaspari Gomes</td>
+<td class="columnCenter">&lsquo;68</td>
+</tr>
+<tr>
+<td>Mike Grace *</td>
+<td class="columnCenter">&lsquo;65</td>
+</tr>
+<tr>
+<td>Art Horner</td>
+<td class="columnCenter">Liaison</td>
+</tr>
+<tr>
+<td>JoAnn Hembree MacDonald</td>
+<td class="columnCenter">&lsquo;56</td>
+</tr>
+<tr>
+<td>Lee W. Miller</td>
+<td class="columnCenter">'76</td>
+</tr>
+<tr>
+<td>Tony Negri</td>
+<td class="columnCenter">Retired Faculty</td>
+</tr>
+<tr>
+<td>Carol Laabs Patterson</td>
+<td class="columnCenter">&lsquo;55</td>
+</tr>
+<tr>
+<td>Doug Pavese *</td>
+<td class="columnCenter">&lsquo;58</td>
+</tr>
+<tr>
+<td>Karen Skelgaard Petersen</td>
+<td class="columnCenter">&lsquo;72</td>
+</tr>
+<tr>
+<td>Donna Dennes Peterson *</td>
+<td class="columnCenter">&lsquo;68</td>
+</tr>
+<tr>
+<td>Ann Hutchinson Porrino</td>
+<td class="columnCenter">&lsquo;61</td>
+</tr>
+<tr>
+<td>Mary Schaefer</td>
+<td class="columnCenter">&lsquo;76</td>
+</tr>
+<tr>
+<td>Jacky Cooper Schalich</td>
+<td class="columnCenter">&lsquo;57</td>
+</tr>
+<tr>
+<td>Nadine Wiggins Smedshammer</td>
+<td class="columnCenter">&lsquo;59</td>
+</tr>
+<tr>
+<td>Jon Stiffler</td>
+<td class="columnCenter">&lsquo;72</td>
+</tr>
+<tr>
+<td>Sylvia Zane Strong</td>
+<td class="columnCenter">&lsquo;62</td>
+</tr>
+<tr>
+<td>Christine Romani Tonelli</td>
+<td class="columnCenter">&lsquo;88</td>
+</tr>
+<tr>
+<td>Jim Ward, President</td>
+<td class="columnCenter">&lsquo;62</td>
+</tr>
+<tr>
+<td>Ilona Mayer Williams</td>
+<td class="columnCenter">&lsquo;64</td>
+</tr>
+</tbody>
+</table>
